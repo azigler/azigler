@@ -1,16 +1,13 @@
-### Hi there 👋
+# Howdy! 👋
 
-<!--
-**azigler/azigler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is [Andrew Zigler](https://www.andrewzigler.com/about/) and I'm a developer advocate at [Mattermost](https://mattermost.com/). I live in **California** and my pronouns are **he/him**.
 
-Here are some ideas to get you started:
+- Are you a technical writer? Submit your proposal to our [Community Writing Program](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/community-content-program) and earn up to $500 and a placement on our blog!
+- Want to get in touch? [Join our community server](https://community.mattermost.com/) and message me @ **andrew.zigler**!
+- Participating in [#hacktoberfest](https://hacktoberfest.com/)? [Learn more on our website](https://mattermost.com/hacktoberfest/)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![azigler's GitHub stats](https://github-readme-stats.vercel.app/api?username=azigler&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![azigler's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azigler&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+*Like my badges? You can get your own at [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)!*
+
+*Last updated: October 10, 2022*
