@@ -5,8 +5,8 @@ My name is [Andrew Zigler](https://www.andrewzigler.com/about/) and I'm a develo
 - Do you host a **tech meet-up group**? Check out my ["Mattermost Wants to Buy Pizza for Your Meetup Group"](https://mattermost.com/blog/mattermost-wants-to-buy-pizza-for-your-meetup-group/) blog post and follow the steps to get some food at your next meeting! 🍕
 - Want to get in touch? [Join our community server](https://community.mattermost.com/) and message me @ **andrew.zigler**! 😎
 
-[![azigler's GitHub stats](https://github-readme-stats.vercel.app/api?username=azigler&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![azigler's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azigler&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### *Join us in building the workplace of the future...* :office: :computer: :building_construction:
 
-*Like my badges? You can get your own at [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)!*
+[![QR code to Mattermost's AI forums](https://github.com/azigler/azigler/assets/7295363/b8d2ca14-0642-4bef-b77d-df4848622e54)](https://forum.mattermost.com/c/ai-frameworks/40)
 
-*Last updated: April 26, 2023*
+*Last updated: June 14, 2023*
