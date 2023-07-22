@@ -23,7 +23,7 @@ _My interests..._
 
 _My travels..._
 - 🌎 **NA:** Calgary, Toronto, San Francisco, Los Angeles, Austin, Baltimore, District of Columbia (DC)
-- 🌏 **APAC:** Japan, South Korea, Korean Demilitarized Zone (DMZ)
+- 🌏 **APAC:** Tokyo, Osaka, Nagoya, Kyoto, Sapporo, Seoul, Taipei, Korean Demilitarized Zone (DMZ)
 - 🌍 **EMEA:** Amsterdam, Valencia, Barcelona, Sitges, Dublin
 
 _My presentations..._
