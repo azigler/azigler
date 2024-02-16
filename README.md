@@ -50,7 +50,7 @@ _My videos..._
 - **["Integrating your GitLab CI/CD pipelines into Mattermost"](https://www.youtube.com/watch?v=li2jaPziXTQ) (9:45)** - August 12, 2022
 - **["Building a custom Grafana dashboard for Kubernetes observability"](https://www.youtube.com/watch?v=iEMxDxujkAQ) (4:58)** - August 1, 2022
 
-My articles...
+_My articles..._
 - **["5 open source projects to contribute to in 2024"](https://mattermost.com/blog/5-open-source-projects-to-contribute-to-in-2024/)** - January 9, 2024
 - **["Bringing open source tech enthusiasts together with pizza"](https://mattermost.com/blog/bringing-open-source-tech-enthusiasts-together-with-pizza/)** - November 28, 2023
 - **["Hacktoberfest 2023: Incredible community contributions, digital rewards & a healthier planet"](https://mattermost.com/blog/hacktoberfest-2023-incredible-community-contributions-digital-rewards-a-healthier-planet/)** - November 23, 2023
@@ -62,10 +62,10 @@ My articles...
 - **["The quickest way to integrate Mattermost into your GitLab release pipeline"](https://mattermost.com/blog/integrate-mattermost-into-gitlab-release-pipeline/)** - December 13, 2022
 - **["How to Make Your Incident Response Plan with Mattermost"](https://mattermost.com/blog/how-to-make-your-incident-response-plan-with-mattermost/)** - May 11, 2022
 
-My podcasts...
+_My podcasts..._
 - **["Open Communities With Andrew Zigler"](https://www.arresteddevops.com/open-communities/) (35min)** - [Arrested DevOps](https://www.arresteddevops.com/) 2024 podcast
 
-My lists...
+_My lists..._
 - **[🧠 AI & ML](https://github.com/stars/azigler/lists/ai-ml)** - a collection of artificial intelligence and machine learning repositories
 - **[🔣 AT Protocol & Bluesky](https://github.com/stars/azigler/lists/at-protocol-bluesky)** - a collection of AT Protocol and Bluesky repositories
 - **[🧭 Mattermost](https://github.com/stars/azigler/lists/mattermost)** - a collection of repositories from the Mattermost open source community
