@@ -18,7 +18,7 @@ _My contacts..._
 
 _My interests..._
 - 🏕️ **offline:** public speaking, career & technical education, stakeholder economics, 3D printing
-- 👨‍💻 **online:** artificial intelligence, digital twins, edtech, cloud, collaboration, cybersecurity, digital transformation
+- 👨‍💻 **online:** artificial intelligence, digital gardens, edtech, cloud, collaboration, cybersecurity, digital transformation
 
 _My travels..._
 - 🌎 **NA:** Calgary, Toronto, San Francisco, Los Angeles, Austin, Baltimore, District of Columbia (DC)
@@ -26,6 +26,7 @@ _My travels..._
 - 🌍 **EMEA:** Amsterdam, Valencia, Barcelona, Sitges, Dublin
 
 _My presentations..._
+- **"Panel Discussion on Agile / DevOps" (45min)** - [Unleash Agile & DevOps in San Francisco](https://ace.atlassian.com/events/details/atlassian-san-francisco-bay-area-presents-unleash-agile-amp-devops-in-san-francisco/) 2024 panel
 - **["Building AI bots on your private data with an open source stack"](https://www.youtube.com/watch?v=6dtMktLW5KI) (45min)** - [AI DevWorld](https://aidevworld.com/) 2023 workshop
 - **"Anatomy of a Mattermonster: How I Created an Open Source Developer Demo" (45min)** - [devopsdays Amsterdam](https://devopsdays.org/events/2023-amsterdam/program/ws-andrew-zigler) 2023 workshop
 - **"How to Build a Custom Collaboration Stack with Open Source Software" (45min)** - [SCaLE 20x](https://www.socallinuxexpo.org/scale/20x/presentations/workshop-how-build-custom-collaboration-stack-open-source-software) 2023 workshop
