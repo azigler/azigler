@@ -1,6 +1,6 @@
 # Howdy! 👋
 
-I make resources to help folks use 💻 open source technology.
+I'm a developer advocate focusing on the intersection of collaboration and AI. I create resources to help folks use open source technology.
 
 *My profile...*
 - **name:** Andrew Zigler
@@ -14,12 +14,11 @@ _My contacts..._
 - **personal email:** andrewzigler@gmail.com
 - **work email:** andrew.zigler@mattermost.com
 - **Mattermost:** [andrew.zigler](https://community.mattermost.com/core/messages/@andrew.zigler)
-- **Bluesky & Discord:** zigler.ai
 - **Netlify form:** https://www.andrewzigler.com/contact/
 
 _My interests..._
 - 🏕️ **offline:** public speaking, career & technical education, stakeholder economics, 3D printing
-- 👨‍💻 **online:** artificial intelligence & machine learning, [atproto](https://atproto.com/), webdev, web3
+- 👨‍💻 **online:** artificial intelligence, digital twins, edtech, cloud, collaboration, cybersecurity, digital transformation
 
 _My travels..._
 - 🌎 **NA:** Calgary, Toronto, San Francisco, Los Angeles, Austin, Baltimore, District of Columbia (DC)
@@ -27,6 +26,7 @@ _My travels..._
 - 🌍 **EMEA:** Amsterdam, Valencia, Barcelona, Sitges, Dublin
 
 _My presentations..._
+- **["Building AI bots on your private data with an open source stack"](https://www.youtube.com/watch?v=6dtMktLW5KI) (45min)** - [AI DevWorld](https://aidevworld.com/) 2023 workshop
 - **"Anatomy of a Mattermonster: How I Created an Open Source Developer Demo" (45min)** - [devopsdays Amsterdam](https://devopsdays.org/events/2023-amsterdam/program/ws-andrew-zigler) 2023 workshop
 - **"How to Build a Custom Collaboration Stack with Open Source Software" (45min)** - [SCaLE 20x](https://www.socallinuxexpo.org/scale/20x/presentations/workshop-how-build-custom-collaboration-stack-open-source-software) 2023 workshop
 - **["Avoiding Catastrophic Outages"](https://www.youtube.com/watch?v=4mBYM1jQoz0) (30min)** - [DeveloperWeek](https://sched.co/1HwgI) 2023 virtual presentation
@@ -36,11 +36,12 @@ _My presentations..._
 - **["Open Source Your Software Development Lifecycle"](https://flic.kr/p/2ntwFeZ) (50min)** - [Collision](https://collisionconf.com/) 2022 masterclass
 
 _My videos..._
+- **["Mattermost for Microsoft Teams"](https://www.youtube.com/watch?v=r2VNMKSWH7U) (1:50)** - December 4, 2023
+- **["OpenOps is Available! Start Experimenting with Open Source AI"](https://www.youtube.com/watch?v=20KSKBzZmik) (9:10)** - July 24, 2023
 - **["devopsdays Amsterdam 2023 interview with Andrew Zigler, Developer Advocate at Mattermost"](https://www.youtube.com/watch?v=C0Gv8567-oE) (8:07)** - July 5, 2023
 - **["Build your own local AI with mattermost-ai-framework and GPT4All"](https://www.youtube.com/watch?v=h7vHwVabPQc) (6:47)** - May 30, 2023
 - **["The Feature Feature: Remind Me Later"](https://www.youtube.com/watch?v=Fu2b49ca9W8) (1:30)** - April 26, 2023
 - **["Add ChatGPT to Mattermost in 2 minutes"](https://www.youtube.com/watch?v=Hx4Ex7YZZiA) (1:37)** - March 23, 2023
-- **["Mattermost for Microsoft Teams"](https://www.youtube.com/watch?v=IydqCA-I6yg) (1:50)** - March 9, 2023
 - **["Mattermost Solutions for GitLab"](https://www.youtube.com/watch?v=cTIAfaGR7OU) (1:43)** - February 15, 2023
 - **["Make your next Mattermost slash command with Pipedream"](https://www.youtube.com/watch?v=QabKh5yF4-A) (5:32)** - December 2, 2022
 - **["Add TypeScript to React in Less Than 5 Minutes"](https://www.youtube.com/watch?v=12qzCOYLLoc) (4:07)** - October 18, 2022
@@ -50,11 +51,19 @@ _My videos..._
 - **["Building a custom Grafana dashboard for Kubernetes observability"](https://www.youtube.com/watch?v=iEMxDxujkAQ) (4:58)** - August 1, 2022
 
 My articles...
+- **["5 open source projects to contribute to in 2024"](https://mattermost.com/blog/5-open-source-projects-to-contribute-to-in-2024/)** - January 9, 2024
+- **["Bringing open source tech enthusiasts together with pizza"](https://mattermost.com/blog/bringing-open-source-tech-enthusiasts-together-with-pizza/)** - November 28, 2023
+- **["Hacktoberfest 2023: Incredible community contributions, digital rewards & a healthier planet"](https://mattermost.com/blog/hacktoberfest-2023-incredible-community-contributions-digital-rewards-a-healthier-planet/)** - November 23, 2023
+- **["Hacktoberfest 2023: Celebrate open source, make an impact on the planet"](https://mattermost.com/blog/mattermost-hacktoberfest-2023/)** - October 2, 2023
+- **["Start using GPT-4 and local models with the open source OpenOps framework"](https://mattermost.com/blog/open-source-ai-framework/)** - July 27, 2023
 - **["Mattermost Wants to Buy Pizza for Your Meetup Group"](https://mattermost.com/blog/mattermost-wants-to-buy-pizza-for-your-meetup-group/)** - April 13, 2023
 - **["Community Spotlight: Mattermost ChatGPT bot by Sebastian Müller"](https://mattermost.com/blog/community-spotlight-mattermost-chatgpt-bot-by-sebastian-muller/)** - April 7, 2023
 - **["Mattermost Solutions for GitLab: Deep integration to ship software faster"](https://mattermost.com/blog/mattermost-solutions-for-gitlab/)** - February 15, 2023
 - **["The quickest way to integrate Mattermost into your GitLab release pipeline"](https://mattermost.com/blog/integrate-mattermost-into-gitlab-release-pipeline/)** - December 13, 2022
 - **["How to Make Your Incident Response Plan with Mattermost"](https://mattermost.com/blog/how-to-make-your-incident-response-plan-with-mattermost/)** - May 11, 2022
+
+My podcasts...
+- **["Open Communities With Andrew Zigler"](https://www.arresteddevops.com/open-communities/) (35min)** - [Arrested DevOps](https://www.arresteddevops.com/) 2024 podcast
 
 My lists...
 - **[🧠 AI & ML](https://github.com/stars/azigler/lists/ai-ml)** - a collection of artificial intelligence and machine learning repositories
@@ -64,9 +73,4 @@ My lists...
 - **[🐮 MOO & MUD](https://github.com/stars/azigler/lists/moo-mud)** - a collection of MOO and MUD repositories
 - **[🪸 Web3](https://github.com/stars/azigler/lists/web3)** - a collection of web3 repositories
 
-_My initiatives..._
-- **Running a technology meet-up group?** Read my ["Mattermost Wants to Buy Pizza for Your Meetup Group"](https://mattermost.com/blog/mattermost-wants-to-buy-pizza-for-your-meetup-group/) article and score some food 🍕 for your next meeting!
-- **Exploring the intersection of AI and open source technology?** Join the [Mattermost AI 🧠 community](https://forum.mattermost.com/t/welcome-to-mattermosts-ai-community/16144)!
-- **Contributing to Mattermost?** Join the [Mattermost 🧭 open source community](https://mattermost.com/community/)!
-
-*Last updated: July 21, 2023*
+*Last updated: February 15, 2024*
