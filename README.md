@@ -3,6 +3,7 @@
 I'm a developer advocate focusing on the intersection of collaboration and AI. I create resources to help folks use open source technology.
 
 *My profile...*
+
 - **name:** Andrew Zigler
 - **role:** Developer Advocate @ [Mattermost](https://mattermost.com/)
 - **nickname:** Zig 🪩
@@ -11,21 +12,26 @@ I'm a developer advocate focusing on the intersection of collaboration and AI. I
 - **website:** https://www.andrewzigler.com/
 
 _My contacts..._
+
 - **personal email:** andrewzigler@gmail.com
 - **work email:** andrew.zigler@mattermost.com
 - **Mattermost:** [andrew.zigler](https://community.mattermost.com/core/messages/@andrew.zigler)
 - **Netlify form:** https://www.andrewzigler.com/contact/
 
 _My interests..._
+
 - 🏕️ **offline:** public speaking, career & technical education, stakeholder economics, 3D printing
 - 👨‍💻 **online:** artificial intelligence, digital gardens, edtech, cloud, collaboration, cybersecurity, digital transformation
 
 _My travels..._
-- 🌎 **NA:** Calgary, Toronto, San Francisco, Los Angeles, Austin, Baltimore, District of Columbia (DC)
+
+- 🌎 **NA:** Calgary, Toronto, San Francisco, Los Angeles, Austin, Baltimore, District of Columbia (DC), Raleigh, San Diego, Miami, Orlando, Denver, Boulder, Kansas City, Indianapolis
 - 🌏 **APAC:** Tokyo, Osaka, Nagoya, Kyoto, Sapporo, Seoul, Taipei, Korean Demilitarized Zone (DMZ)
 - 🌍 **EMEA:** Amsterdam, Valencia, Barcelona, Sitges, Dublin
 
 _My presentations..._
+
+- **"Building AI bots on your private data with an open source stack" (25min)** - [DeveloperWeek](https://www.developerweek.com/) 2024 presentation
 - **"Panel Discussion on Agile / DevOps" (45min)** - [Unleash Agile & DevOps in San Francisco](https://ace.atlassian.com/events/details/atlassian-san-francisco-bay-area-presents-unleash-agile-amp-devops-in-san-francisco/) 2024 panel
 - **["Building AI bots on your private data with an open source stack"](https://www.youtube.com/watch?v=6dtMktLW5KI) (45min)** - [AI DevWorld](https://aidevworld.com/) 2023 workshop
 - **"Anatomy of a Mattermonster: How I Created an Open Source Developer Demo" (45min)** - [devopsdays Amsterdam](https://devopsdays.org/events/2023-amsterdam/program/ws-andrew-zigler) 2023 workshop
@@ -37,6 +43,7 @@ _My presentations..._
 - **["Open Source Your Software Development Lifecycle"](https://flic.kr/p/2ntwFeZ) (50min)** - [Collision](https://collisionconf.com/) 2022 masterclass
 
 _My videos..._
+
 - **["Mattermost for Microsoft Teams"](https://www.youtube.com/watch?v=r2VNMKSWH7U) (1:50)** - December 4, 2023
 - **["OpenOps is Available! Start Experimenting with Open Source AI"](https://www.youtube.com/watch?v=20KSKBzZmik) (9:10)** - July 24, 2023
 - **["devopsdays Amsterdam 2023 interview with Andrew Zigler, Developer Advocate at Mattermost"](https://www.youtube.com/watch?v=C0Gv8567-oE) (8:07)** - July 5, 2023
@@ -52,6 +59,8 @@ _My videos..._
 - **["Building a custom Grafana dashboard for Kubernetes observability"](https://www.youtube.com/watch?v=iEMxDxujkAQ) (4:58)** - August 1, 2022
 
 _My articles..._
+
+- **["Mattermost AI Copilot: Accelerating the conversation with LLMs"](https://mattermost.com/blog/mattermost-ai-copilot-accelerating-the-conversation-with-llms/)** - March 13, 2024
 - **["5 open source projects to contribute to in 2024"](https://mattermost.com/blog/5-open-source-projects-to-contribute-to-in-2024/)** - January 9, 2024
 - **["Bringing open source tech enthusiasts together with pizza"](https://mattermost.com/blog/bringing-open-source-tech-enthusiasts-together-with-pizza/)** - November 28, 2023
 - **["Hacktoberfest 2023: Incredible community contributions, digital rewards & a healthier planet"](https://mattermost.com/blog/hacktoberfest-2023-incredible-community-contributions-digital-rewards-a-healthier-planet/)** - November 23, 2023
@@ -64,9 +73,11 @@ _My articles..._
 - **["How to Make Your Incident Response Plan with Mattermost"](https://mattermost.com/blog/how-to-make-your-incident-response-plan-with-mattermost/)** - May 11, 2022
 
 _My podcasts..._
+
 - **["Open Communities With Andrew Zigler"](https://www.arresteddevops.com/open-communities/) (35min)** - [Arrested DevOps](https://www.arresteddevops.com/) 2024 podcast
 
 _My lists..._
+
 - **[🧠 AI & ML](https://github.com/stars/azigler/lists/ai-ml)** - a collection of artificial intelligence and machine learning repositories
 - **[🔣 AT Protocol & Bluesky](https://github.com/stars/azigler/lists/at-protocol-bluesky)** - a collection of AT Protocol and Bluesky repositories
 - **[🧭 Mattermost](https://github.com/stars/azigler/lists/mattermost)** - a collection of repositories from the Mattermost open source community
@@ -74,4 +85,4 @@ _My lists..._
 - **[🐮 MOO & MUD](https://github.com/stars/azigler/lists/moo-mud)** - a collection of MOO and MUD repositories
 - **[🪸 Web3](https://github.com/stars/azigler/lists/web3)** - a collection of web3 repositories
 
-*Last updated: February 15, 2024*
+*Last updated: March 14, 2024*
