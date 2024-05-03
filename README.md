@@ -31,6 +31,7 @@ _My travels..._
 
 _My presentations..._
 
+- **"ChatOps + AI = helping humans do their job better" (90min)** - [DevOpsDays Raleigh](https://devopsdays.org/events/2024-raleigh/program/andrew-zigler-workshop/) 2024 workshop
 - **"Building AI bots on your private data with an open source stack" (25min)** - [DeveloperWeek](https://www.developerweek.com/) 2024 presentation
 - **"Panel Discussion on Agile / DevOps" (45min)** - [Unleash Agile & DevOps in San Francisco](https://ace.atlassian.com/events/details/atlassian-san-francisco-bay-area-presents-unleash-agile-amp-devops-in-san-francisco/) 2024 panel
 - **["Building AI bots on your private data with an open source stack"](https://www.youtube.com/watch?v=6dtMktLW5KI) (45min)** - [AI DevWorld](https://aidevworld.com/) 2023 workshop
@@ -44,6 +45,7 @@ _My presentations..._
 
 _My videos..._
 
+- **["Demo: AI-Accelerated Workflows with Mattermost, Atlassian Jira, Parabol & Microsoft Azure AI"](https://www.youtube.com/watch?v=kDaZoGaQjIM) (1:23)** - April 29, 2024
 - **["Mattermost for Microsoft Teams"](https://www.youtube.com/watch?v=r2VNMKSWH7U) (1:50)** - December 4, 2023
 - **["OpenOps is Available! Start Experimenting with Open Source AI"](https://www.youtube.com/watch?v=20KSKBzZmik) (9:10)** - July 24, 2023
 - **["devopsdays Amsterdam 2023 interview with Andrew Zigler, Developer Advocate at Mattermost"](https://www.youtube.com/watch?v=C0Gv8567-oE) (8:07)** - July 5, 2023
