@@ -31,6 +31,9 @@ _My travels..._
 
 _My presentations..._
 
+- **"Securing the Future: Navigating the Complexities of Multi-User AI Environments" (25min)** - [BSides Barcelona](https://bsides.barcelona/) 2024 presentation
+- **["How to be a No-Code AI Power User"](https://www.youtube.com/watch?v=RN8z6PD3wJ8) (25min)** - [The Artificially Intelligent Enterprise](https://www.techstrongevents.com/the-artificially-intelligent-enterprise/home) 2024 virtual presentation
+- **"ChatOps + AI = The Future of Work" (45min)** - [CyberWiseCon Europe](https://cyberwisecon.eu/#) 2024 virtual presentation
 - **"ChatOps + AI = helping humans do their job better" (90min)** - [DevOpsDays Raleigh](https://devopsdays.org/events/2024-raleigh/program/andrew-zigler-workshop/) 2024 workshop
 - **"Building AI bots on your private data with an open source stack" (25min)** - [DeveloperWeek](https://www.developerweek.com/) 2024 presentation
 - **"Panel Discussion on Agile / DevOps" (45min)** - [Unleash Agile & DevOps in San Francisco](https://ace.atlassian.com/events/details/atlassian-san-francisco-bay-area-presents-unleash-agile-amp-devops-in-san-francisco/) 2024 panel
