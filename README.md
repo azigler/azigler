@@ -31,6 +31,7 @@ _My travels..._
 
 _My presentations..._
 
+- **"Navigating the Security Complexities of Multi-User AI Environments" (45min)** - [AppSec SoCal](https://planetcybersec.com/061224-conference/) 2024 presentation
 - **"Securing the Future: Navigating the Complexities of Multi-User AI Environments" (25min)** - [BSides Barcelona](https://bsides.barcelona/) 2024 presentation
 - **["How to be a No-Code AI Power User"](https://www.youtube.com/watch?v=RN8z6PD3wJ8) (25min)** - [The Artificially Intelligent Enterprise](https://www.techstrongevents.com/the-artificially-intelligent-enterprise/home) 2024 virtual presentation
 - **"ChatOps + AI = The Future of Work" (45min)** - [CyberWiseCon Europe](https://cyberwisecon.eu/#) 2024 virtual presentation
@@ -80,6 +81,10 @@ _My articles..._
 _My podcasts..._
 
 - **["Open Communities With Andrew Zigler"](https://www.arresteddevops.com/open-communities/) (35min)** - [Arrested DevOps](https://www.arresteddevops.com/) 2024 podcast
+
+_My webinars..._
+
+- **["The Collaboration Landscape of Tomorrow: How AI is Transforming Mission-Critical Work"](https://mattermost.com/video/ai-collaboration-landscape-of-tomorrow/) (35min)** - [Mattermost](https://mattermost.com/) 2024 webinar
 
 _My lists..._
 
