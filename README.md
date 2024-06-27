@@ -66,6 +66,7 @@ _My videos..._
 
 _My articles..._
 
+- **["Join forces with Mattermost on cybersecurity"](https://mattermost.com/blog/join-forces-with-mattermost-on-cybersecurity/)** - June 27, 2024
 - **["Mattermost AI Copilot: Accelerating the conversation with LLMs"](https://mattermost.com/blog/mattermost-ai-copilot-accelerating-the-conversation-with-llms/)** - March 13, 2024
 - **["5 open source projects to contribute to in 2024"](https://mattermost.com/blog/5-open-source-projects-to-contribute-to-in-2024/)** - January 9, 2024
 - **["Bringing open source tech enthusiasts together with pizza"](https://mattermost.com/blog/bringing-open-source-tech-enthusiasts-together-with-pizza/)** - November 28, 2023
