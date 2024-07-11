@@ -85,6 +85,7 @@ _My podcasts..._
 
 _My webinars..._
 
+- **["Mattermost Copilot Demo – AI-Enhanced Collaboration"](https://mattermost.com/video/copilot-demo-ai-enhanced-collaboration/) (35min)** - [Mattermost](https://mattermost.com/) 2024 webinar
 - **["The Collaboration Landscape of Tomorrow: How AI is Transforming Mission-Critical Work"](https://mattermost.com/video/ai-collaboration-landscape-of-tomorrow/) (35min)** - [Mattermost](https://mattermost.com/) 2024 webinar
 
 _My lists..._
