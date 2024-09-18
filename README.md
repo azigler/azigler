@@ -20,8 +20,8 @@ _My contacts..._
 
 _My interests..._
 
-- 🏕️ **offline:** public speaking, career & technical education, stakeholder economics, 3D printing
-- 👨‍💻 **online:** artificial intelligence, digital gardens, edtech, cloud, collaboration, cybersecurity, digital transformation
+- 🏕️ **offline:** public speaking, career & technical education, stakeholder economics, 3D printing, personal knowledge management
+- 👨‍💻 **online:** artificial intelligence, digital gardens, edtech, federation, collaboration, cybersecurity, digital transformation
 
 _My travels..._
 
@@ -66,6 +66,7 @@ _My videos..._
 
 _My articles..._
 
+- **["Enhancing mission-critical enterprise collaboration with multi-LLM support for Mattermost Copilot"](https://mattermost.com/blog/mattermost-copilot-multi-llm-support/)** - September 17, 2024
 - **["Join forces with Mattermost on cybersecurity"](https://mattermost.com/blog/join-forces-with-mattermost-on-cybersecurity/)** - June 27, 2024
 - **["Mattermost AI Copilot: Accelerating the conversation with LLMs"](https://mattermost.com/blog/mattermost-ai-copilot-accelerating-the-conversation-with-llms/)** - March 13, 2024
 - **["5 open source projects to contribute to in 2024"](https://mattermost.com/blog/5-open-source-projects-to-contribute-to-in-2024/)** - January 9, 2024
@@ -83,6 +84,10 @@ _My podcasts..._
 
 - **["Open Communities With Andrew Zigler"](https://www.arresteddevops.com/open-communities/) (35min)** - [Arrested DevOps](https://www.arresteddevops.com/) 2024 podcast
 
+_My courses..._
+
+- **["Mattermost Copilot Multi-LLM Setup & Usage"](https://academy.mattermost.com/p/new-mattermost-copilot-multi-llm-setup-usage) (18min, 6 videos)** - [Mattermost Academy](https://academy.mattermost.com/) 2024 course
+
 _My webinars..._
 
 - **["Mattermost Copilot Demo – AI-Enhanced Collaboration"](https://mattermost.com/video/copilot-demo-ai-enhanced-collaboration/) (35min)** - [Mattermost](https://mattermost.com/) 2024 webinar
@@ -97,4 +102,4 @@ _My lists..._
 - **[🐮 MOO & MUD](https://github.com/stars/azigler/lists/moo-mud)** - a collection of MOO and MUD repositories
 - **[🪸 Web3](https://github.com/stars/azigler/lists/web3)** - a collection of web3 repositories
 
-*Last updated: May 3, 2024*
+*Last updated: September 18, 2024*
