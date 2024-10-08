@@ -50,7 +50,6 @@ _My presentations..._
 _My videos..._
 
 - **["Demo: AI-Accelerated Workflows with Mattermost, Atlassian Jira, Parabol & Microsoft Azure AI"](https://www.youtube.com/watch?v=kDaZoGaQjIM) (1:23)** - April 29, 2024
-- **["Mattermost for Microsoft Teams"](https://www.youtube.com/watch?v=r2VNMKSWH7U) (1:50)** - December 4, 2023
 - **["OpenOps is Available! Start Experimenting with Open Source AI"](https://www.youtube.com/watch?v=20KSKBzZmik) (9:10)** - July 24, 2023
 - **["devopsdays Amsterdam 2023 interview with Andrew Zigler, Developer Advocate at Mattermost"](https://www.youtube.com/watch?v=C0Gv8567-oE) (8:07)** - July 5, 2023
 - **["Build your own local AI with mattermost-ai-framework and GPT4All"](https://www.youtube.com/watch?v=h7vHwVabPQc) (6:47)** - May 30, 2023
@@ -66,6 +65,7 @@ _My videos..._
 
 _My articles..._
 
+- **["Hacktoberfest 2024: Contribute, connect & collect digital rewards!"](https://mattermost.com/blog/hacktoberfest-2024/)** - October 1, 2024
 - **["Enhancing mission-critical enterprise collaboration with multi-LLM support for Mattermost Copilot"](https://mattermost.com/blog/mattermost-copilot-multi-llm-support/)** - September 17, 2024
 - **["Join forces with Mattermost on cybersecurity"](https://mattermost.com/blog/join-forces-with-mattermost-on-cybersecurity/)** - June 27, 2024
 - **["Mattermost AI Copilot: Accelerating the conversation with LLMs"](https://mattermost.com/blog/mattermost-ai-copilot-accelerating-the-conversation-with-llms/)** - March 13, 2024
@@ -102,4 +102,4 @@ _My lists..._
 - **[🐮 MOO & MUD](https://github.com/stars/azigler/lists/moo-mud)** - a collection of MOO and MUD repositories
 - **[🪸 Web3](https://github.com/stars/azigler/lists/web3)** - a collection of web3 repositories
 
-*Last updated: September 18, 2024*
+*Last updated: October 8, 2024*
