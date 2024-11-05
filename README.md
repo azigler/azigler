@@ -11,7 +11,7 @@
 - **Building AI bots on your private data with an open source stack (25min)** - [DeveloperWeek](https://www.developerweek.com/) 2024 presentation
 - **Panel Discussion on Agile / DevOps (45min)** - [Unleash Agile & DevOps in San Francisco](https://ace.atlassian.com/events/details/atlassian-san-francisco-bay-area-presents-unleash-agile-amp-devops-in-san-francisco/) 2024 panel
 - **[Building AI bots on your private data with an open source stack](https://www.youtube.com/watch?v=6dtMktLW5KI) (45min)** - [AI DevWorld](https://aidevworld.com/) 2023 workshop
-- **Anatomy of a Mattermonster: How I Created an Open Source Developer Demo (45min)** - [devopsdays Amsterdam](https://devopsdays.org/events/2023-amsterdam/program/ws-andrew-zigler) 2023 workshop
+- **Anatomy of a Mattermonster: How I Created an Open Source Developer Demo (45min)** - [DevOpsDays Amsterdam](https://devopsdays.org/events/2023-amsterdam/program/ws-andrew-zigler) 2023 workshop
 - **How to Build a Custom Collaboration Stack with Open Source Software (45min)** - [SCaLE 20x](https://www.socallinuxexpo.org/scale/20x/presentations/workshop-how-build-custom-collaboration-stack-open-source-software) 2023 workshop
 - **[Avoiding Catastrophic Outages](https://www.youtube.com/watch?v=4mBYM1jQoz0) (30min)** - [DeveloperWeek](https://sched.co/1HwgI) 2023 virtual presentation
 - **How to start a community writing program that pays its contributors (45min)** - [All Things Open Community Leadership Summit](https://2022.allthingsopen.org/events/community-leadership-summit/) 2022 [unconference](https://en.wikipedia.org/wiki/Unconference) session
