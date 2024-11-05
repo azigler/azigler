@@ -1,36 +1,8 @@
 # Howdy! 👋
 
-I'm a developer advocate focusing on the intersection of collaboration and AI. I create resources to help folks use open source technology.
+## Presentations
 
-*My profile...*
-
-- **name:** Andrew Zigler
-- **role:** Developer Advocate @ [Mattermost](https://mattermost.com/)
-- **nickname:** Zig 🪩
-- **pronouns:** he/him 🏳️‍🌈
-- **timezone:** Pacific Time (PT)
-- **website:** https://www.andrewzigler.com/
-
-_My contacts..._
-
-- **personal email:** andrewzigler@gmail.com
-- **work email:** andrew.zigler@mattermost.com
-- **Mattermost:** [andrew.zigler](https://community.mattermost.com/core/messages/@andrew.zigler)
-- **Netlify form:** https://www.andrewzigler.com/contact/
-
-_My interests..._
-
-- 🏕️ **offline:** public speaking, career & technical education, stakeholder economics, 3D printing, personal knowledge management
-- 👨‍💻 **online:** artificial intelligence, digital gardens, edtech, federation, collaboration, cybersecurity, digital transformation
-
-_My travels..._
-
-- 🌎 **NA:** Calgary, Toronto, San Francisco, Los Angeles, Austin, Baltimore, District of Columbia (DC), Raleigh, San Diego, Miami, Orlando, Denver, Boulder, Kansas City, Indianapolis
-- 🌏 **APAC:** Tokyo, Osaka, Nagoya, Kyoto, Sapporo, Seoul, Taipei, Korean Demilitarized Zone (DMZ)
-- 🌍 **EMEA:** Amsterdam, Valencia, Barcelona, Sitges, Dublin
-
-_My presentations..._
-
+- **"Ready Player 2: designing and securing multi-user AI environments" (20min)** - [All Things Open](https://2024.allthingsopen.org/sessions/2-for-1-critical-conversation-consuming-open-source-software-securely-ready-player-2-designing-and-securing-multi-user-ai-environments) 2024 presentation
 - **"Navigating the Security Complexities of Multi-User AI Environments" (45min)** - [AppSec SoCal](https://planetcybersec.com/061224-conference/) 2024 presentation
 - **"Securing the Future: Navigating the Complexities of Multi-User AI Environments" (25min)** - [BSides Barcelona](https://bsides.barcelona/) 2024 presentation
 - **["How to be a No-Code AI Power User"](https://www.youtube.com/watch?v=RN8z6PD3wJ8) (25min)** - [The Artificially Intelligent Enterprise](https://www.techstrongevents.com/the-artificially-intelligent-enterprise/home) 2024 virtual presentation
@@ -44,11 +16,12 @@ _My presentations..._
 - **["Avoiding Catastrophic Outages"](https://www.youtube.com/watch?v=4mBYM1jQoz0) (30min)** - [DeveloperWeek](https://sched.co/1HwgI) 2023 virtual presentation
 - **"How to start a community writing program that pays its contributors" (45min)** - [All Things Open Community Leadership Summit](https://2022.allthingsopen.org/events/community-leadership-summit/) 2022 [unconference](https://en.wikipedia.org/wiki/Unconference) session
 - **["Open Source All The Things"](https://www.youtube.com/watch?v=gPuWestSQJQ) (45min)** - [All Things Open](https://2022.allthingsopen.org/sessions/open-source-all-the-things/) 2022 presentation
-- **"Open Source Your Software Development Lifecycle" (45min)** - [QCon](https://qconsf.com/speakers/andrewzigler) 2022 presentation
-- **["Open Source Your Software Development Lifecycle"](https://flic.kr/p/2ntwFeZ) (50min)** - [Collision](https://collisionconf.com/) 2022 masterclass
+- **"Open Source Your Software Development Lifecycle" (45min)** - [QCon](https://qconsf.com/presentation/oct2022/open-source-your-software-development-lifecycle) 2022 presentation
+- **"Open Source Your Software Development Lifecycle" (50min)** - [Collision](https://collisionconf.com/) 2022 presentation
 
-_My videos..._
+## Videos
 
+- **[Assorted shorts, "We ❤️ Open Source" by All Things Open](https://www.youtube.com/playlist?list=PL6kQg8bP1Ji4cilM9X36crNJd-BxQQpmX)** - August 2024, ongoing
 - **["Demo: AI-Accelerated Workflows with Mattermost, Atlassian Jira, Parabol & Microsoft Azure AI"](https://www.youtube.com/watch?v=kDaZoGaQjIM) (1:23)** - April 29, 2024
 - **["OpenOps is Available! Start Experimenting with Open Source AI"](https://www.youtube.com/watch?v=20KSKBzZmik) (9:10)** - July 24, 2023
 - **["devopsdays Amsterdam 2023 interview with Andrew Zigler, Developer Advocate at Mattermost"](https://www.youtube.com/watch?v=C0Gv8567-oE) (8:07)** - July 5, 2023
@@ -63,7 +36,7 @@ _My videos..._
 - **["Integrating your GitLab CI/CD pipelines into Mattermost"](https://www.youtube.com/watch?v=li2jaPziXTQ) (9:45)** - August 12, 2022
 - **["Building a custom Grafana dashboard for Kubernetes observability"](https://www.youtube.com/watch?v=iEMxDxujkAQ) (4:58)** - August 1, 2022
 
-_My articles..._
+## Articles
 
 - **["Hacktoberfest 2024: Contribute, connect & collect digital rewards!"](https://mattermost.com/blog/hacktoberfest-2024/)** - October 1, 2024
 - **["Enhancing mission-critical enterprise collaboration with multi-LLM support for Mattermost Copilot"](https://mattermost.com/blog/mattermost-copilot-multi-llm-support/)** - September 17, 2024
@@ -80,26 +53,17 @@ _My articles..._
 - **["The quickest way to integrate Mattermost into your GitLab release pipeline"](https://mattermost.com/blog/integrate-mattermost-into-gitlab-release-pipeline/)** - December 13, 2022
 - **["How to Make Your Incident Response Plan with Mattermost"](https://mattermost.com/blog/how-to-make-your-incident-response-plan-with-mattermost/)** - May 11, 2022
 
-_My podcasts..._
+## Podcasts
 
 - **["Open Communities With Andrew Zigler"](https://www.arresteddevops.com/open-communities/) (35min)** - [Arrested DevOps](https://www.arresteddevops.com/) 2024 podcast
 
-_My courses..._
+## Courses
 
 - **["Mattermost Copilot Multi-LLM Setup & Usage"](https://academy.mattermost.com/p/new-mattermost-copilot-multi-llm-setup-usage) (18min, 6 videos)** - [Mattermost Academy](https://academy.mattermost.com/) 2024 course
 
-_My webinars..._
+## Webinars
 
 - **["Mattermost Copilot Demo – AI-Enhanced Collaboration"](https://mattermost.com/video/copilot-demo-ai-enhanced-collaboration/) (35min)** - [Mattermost](https://mattermost.com/) 2024 webinar
 - **["The Collaboration Landscape of Tomorrow: How AI is Transforming Mission-Critical Work"](https://mattermost.com/video/ai-collaboration-landscape-of-tomorrow/) (35min)** - [Mattermost](https://mattermost.com/) 2024 webinar
 
-_My lists..._
-
-- **[🧠 AI & ML](https://github.com/stars/azigler/lists/ai-ml)** - a collection of artificial intelligence and machine learning repositories
-- **[🔣 AT Protocol & Bluesky](https://github.com/stars/azigler/lists/at-protocol-bluesky)** - a collection of AT Protocol and Bluesky repositories
-- **[🧭 Mattermost](https://github.com/stars/azigler/lists/mattermost)** - a collection of repositories from the Mattermost open source community
-- **[📦 Miscellaneous](https://github.com/stars/azigler/lists/miscellaneous)** - a collection of miscellaneous repositories
-- **[🐮 MOO & MUD](https://github.com/stars/azigler/lists/moo-mud)** - a collection of MOO and MUD repositories
-- **[🪸 Web3](https://github.com/stars/azigler/lists/web3)** - a collection of web3 repositories
-
-*Last updated: October 8, 2024*
+*Last updated: November 5, 2024*
