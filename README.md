@@ -1,5 +1,7 @@
 # Howdy! 👋
 
+Andrew Zigler is a developer advocate and podcast host specializing in developer experience. Through technical content and community building, he helps engineers deliver better software. 🍎
+
 ## Presentations
 
 - Ready Player 2: designing and securing multi-user AI environments (20min) - **[All Things Open](https://2024.allthingsopen.org/sessions/2-for-1-critical-conversation-consuming-open-source-software-securely-ready-player-2-designing-and-securing-multi-user-ai-environments) 2024 presentation**
