@@ -1,6 +1,6 @@
 # Howdy! 👋
 
-Andrew Zigler is a developer advocate and podcast host specializing in developer experience. Through technical content and community building, he helps engineers deliver better software. 🍎
+Andrew Zigler is a developer advocate at [LinearB](https://linearb.io/) and the host of [Dev Interrupted](https://devinterrupted.substack.com/), a Substack newsletter and podcast for software engineering leaders with 18K+ subscribers where he explores the intersection of developer experience and successful habits. Through technical content and community building, he helps engineers deliver better software for our world. 🍎
 
 ## Presentations
 
@@ -23,7 +23,11 @@ Andrew Zigler is a developer advocate and podcast host specializing in developer
 
 ## Videos
 
-- [We ❤️ Open Source by All Things Open](https://www.youtube.com/playlist?list=PL6kQg8bP1Ji4cilM9X36crNJd-BxQQpmX) (assorted shorts) - **August 2024, ongoing**
+- [Developer Productivity, Beyond the Metrics](https://www.youtube.com/shorts/pMHgKuPUozQ) - **December 16, 2024**
+- [The Problem with Developer Productivity](https://www.youtube.com/shorts/bMCK23PR-tk) - **December 15, 2024**
+- [Developer Productivity Will Decline in 2025 | Predictions from LinearB’s Ori Keren (#203)](https://www.youtube.com/watch?v=Ipw_46L46nI) - **December 13, 2024**
+- [End of Year Strategy: Measure, Define, Deploy](https://www.youtube.com/shorts/Ub61lu6NAiM) - **December 12, 2024**
+- [Chat ops, automation, thinking vs "thunking," and more with developer advocate Andrew Zigler](https://www.youtube.com/watch?v=iyu6yAVenjg) - **June 3, 2024**
 - [Demo: AI-Accelerated Workflows with Mattermost, Atlassian Jira, Parabol & Microsoft Azure AI](https://www.youtube.com/watch?v=kDaZoGaQjIM) (1:23) - **April 29, 2024**
 - [OpenOps is Available! Start Experimenting with Open Source AI](https://www.youtube.com/watch?v=20KSKBzZmik) (9:10) - **July 24, 2023**
 - [devopsdays Amsterdam 2023 interview with Andrew Zigler, Developer Advocate at Mattermost](https://www.youtube.com/watch?v=C0Gv8567-oE) (8:07) - **July 5, 2023**
@@ -40,6 +44,7 @@ Andrew Zigler is a developer advocate and podcast host specializing in developer
 
 ## Articles
 
+- [Why Google and Microsoft Think Your Team’s Best Work Might Happen After Dinner](https://linearb.io/blog/why-google-and-microsoft-think-your-team-s-best-work-might-happen-after-dinner) - **December 12, 2024**
 - [Hacktoberfest 2024: Contribute, connect & collect digital rewards!](https://mattermost.com/blog/hacktoberfest-2024/) - **October 1, 2024**
 - [Enhancing mission-critical enterprise collaboration with multi-LLM support for Mattermost Copilot](https://mattermost.com/blog/mattermost-copilot-multi-llm-support/) - **September 17, 2024**
 - [Join forces with Mattermost on cybersecurity](https://mattermost.com/blog/join-forces-with-mattermost-on-cybersecurity/) - **June 27, 2024**
@@ -57,6 +62,7 @@ Andrew Zigler is a developer advocate and podcast host specializing in developer
 
 ## Podcasts
 
+- [Developer Productivity Will Decline in 2025 | Predictions from LinearB’s Ori Keren](https://devinterrupted.substack.com/p/developer-productivity-will-decline) (38min) - **[Dev Interrupted](https://devinterrupted.substack.com/) 2024 podcast**
 - [Open Communities With Andrew Zigler](https://www.arresteddevops.com/open-communities/) (35min) - **[Arrested DevOps](https://www.arresteddevops.com/) 2024 podcast**
 
 ## Courses
@@ -68,4 +74,4 @@ Andrew Zigler is a developer advocate and podcast host specializing in developer
 - [Mattermost Copilot Demo – AI-Enhanced Collaboration](https://mattermost.com/video/copilot-demo-ai-enhanced-collaboration/) (35min) - **[Mattermost](https://mattermost.com/) 2024 webinar**
 - [The Collaboration Landscape of Tomorrow: How AI is Transforming Mission-Critical Work](https://mattermost.com/video/ai-collaboration-landscape-of-tomorrow/) (35min) - **[Mattermost](https://mattermost.com/) 2024 webinar**
 
-*Last updated: November 5, 2024*
+*Last updated: December 16, 2024*
