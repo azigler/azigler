@@ -30,7 +30,7 @@ Andrew Zigler is a developer advocate at [LinearB](https://linearb.io/) and the 
 - Anatomy of a Mattermonster: How I Created an Open Source Developer Demo (45 min) - **[DevOpsDays Amsterdam](https://devopsdays.org/events/2023-amsterdam/program/ws-andrew-zigler) 2023**
 - How to Build a Custom Collaboration Stack with Open Source Software (45 min) - **[SCaLE 20x](https://www.socallinuxexpo.org/scale/20x/presentations/workshop-how-build-custom-collaboration-stack-open-source-software) 2023**
 - [Avoiding Catastrophic Outages](https://www.youtube.com/watch?v=4mBYM1jQoz0) (30 min) - **[DeveloperWeek](https://sched.co/1HwgI) 2023**
-- How to start a community writing program that pays its contributors (45 min) - **[All Things Open Community Leadership Summit](https://2022.allthingsopen.org/events/community-leadership-summit/) 2022**
+- How to start a paid community writing program (45 min) - **[All Things Open Community Leadership Summit](https://2022.allthingsopen.org/events/community-leadership-summit/) 2022**
 - [Open Source All The Things](https://www.youtube.com/watch?v=gPuWestSQJQ) (45 min) - **[All Things Open](https://2022.allthingsopen.org/sessions/open-source-all-the-things/) 2022**
 - Open Source Your Software Development Lifecycle (45 min) - **[QCon](https://qconsf.com/presentation/oct2022/open-source-your-software-development-lifecycle) 2022**
 - Open Source Your Software Development Lifecycle (50 min) - **[Collision](https://collisionconf.com/) 2022**
